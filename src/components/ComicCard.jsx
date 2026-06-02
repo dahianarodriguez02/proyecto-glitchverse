@@ -6,7 +6,7 @@ export const ComicCard = () => {
 
 
   <div className="text-center mb-4">
-    <h1 className="fw-bold" style={{ color: "#016C6A" }}>Matrix</h1>
+    <h1 className="fw-bold" style={{ color: "#016C6A" }}>Matrix 👀</h1>
   </div>
 
   
